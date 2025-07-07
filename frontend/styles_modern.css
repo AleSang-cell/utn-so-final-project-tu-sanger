@@ -1,7 +1,5 @@
 /* Modern, clean, and cool style for the students table app */
 
-/*profe entre el modern css y el style se duplican bodys asi que no voy a modificar el front ya que soy un 0 a la izquierda y no quiero romper nada y atenerme a lo que piden*/
-
 body {
     font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
     background: linear-gradient(135deg, #e0e7ff 0%, #f8fafc 100%);

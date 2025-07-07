@@ -44,8 +44,3 @@ app.post("/api/students", async (req, res) => {
     res.status(500).send("DB error");
   }
 });
-
-
-//con esto profe ya estarian las funciones que se pide en la consigna de saludar, agregar estudiante, cambiar el puerto y el ping 
-// y el cambio del CSS a modern 
-//si no tuviese otros examenes le presentaria algo a la altura de mi trabajo pero matematica no se promosiona sola y tengo que recuperar valga la redundancia su materia jajajajaja
